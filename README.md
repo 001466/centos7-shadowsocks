@@ -14,6 +14,8 @@
 
 git clone git://github.com/csxvzzzi/centos7-shadowsocks.git
 
+cd centos7-shadowsocks
+
 chmod 755 centos7-shadowsocks.sh
 
 ./centos7-shadowsocks.sh
