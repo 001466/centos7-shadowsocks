@@ -6,7 +6,7 @@
 
 **You can use Google.**
 
-**This is shadowsocks servr.**
+**This is shadowsocks server.**
 
 ## Install
 
