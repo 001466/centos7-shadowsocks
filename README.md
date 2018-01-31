@@ -11,6 +11,7 @@
 ## Install
 
 **If you want to install shadowsocks-server you need install git frist.**
+**also need root password to add firewall poort**
 
 git clone git://github.com/csxvzzzi/centos7-shadowsocks.git
 
